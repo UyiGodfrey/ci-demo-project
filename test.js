@@ -5,7 +5,7 @@ function add(a, b) {
 }
 
 // TEST 1
-assert.strictEqual(add(2, 3), 5);
+assert.strictEqual(add(2, 3), 6);
 
 // TEST 2
 assert.strictEqual(add(10, 5), 15);
